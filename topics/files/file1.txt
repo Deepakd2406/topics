@@ -19,3 +19,6 @@ mkdir practice
 cd practice
 touch a.txt b.txt
 cp a.txt backup.txt
+
+----------------------------next day2----------------------
+
