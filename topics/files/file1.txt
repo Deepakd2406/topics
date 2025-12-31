@@ -1,0 +1,21 @@
+WEEK 1 — Linux Basics (Hands-on Everyday)
+Day 1: Getting Started
+
+🧪 Hands-on (Do this on any Linux VM / WSL / CloudShell / Ubuntu in VirtualBox)
+
+pwd, ls, cd
+
+mkdir, touch
+
+cat, less, head, tail
+
+cp, mv, rm
+
+history
+
+💡 Task:
+
+mkdir practice
+cd practice
+touch a.txt b.txt
+cp a.txt backup.txt

@@ -1,0 +1,17 @@
+WEEK 2 — Users, Groups, Processes
+Day 4: User Management
+
+useradd, usermod, userdel
+
+groupadd, groups
+
+/etc/passwd
+
+/etc/shadow
+
+🧪 Task:
+
+sudo useradd demo
+sudo passwd demo
+sudo groupadd devops
+sudo usermod -aG devops demo

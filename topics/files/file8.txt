@@ -1,0 +1,13 @@
+Day 8: Networking Commands
+
+ip a, ip r
+
+ping, traceroute, curl, wget
+
+/etc/hosts
+
+🧪 Task:
+
+ip a
+ping google.com
+curl ifconfig.me

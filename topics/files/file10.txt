@@ -1,0 +1,12 @@
+Day 10: Logs & Monitoring
+
+/var/log/*
+
+tail -f
+
+Analyze failures
+
+🧪 Task:
+
+tail -f /var/log/syslog
+grep -i error /var/log/syslog

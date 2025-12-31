@@ -1,0 +1,13 @@
+WEEK 3 — Services, Networking, Package Management
+Day 6: Systemd Services
+
+systemctl start/stop/status
+
+Check service logs using journalctl
+
+🧪 Task:
+
+sudo systemctl status ssh
+sudo systemctl restart ssh
+journalctl -u ssh --since "10 min ago"
+

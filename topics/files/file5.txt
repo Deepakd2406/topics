@@ -1,0 +1,15 @@
+Day 5: Process Management
+
+ps, top, htop
+
+kill, killall
+
+foreground/background jobs
+
+🧪 Task:
+
+ps aux | grep ssh
+top
+sleep 1000 &
+jobs
+kill %1

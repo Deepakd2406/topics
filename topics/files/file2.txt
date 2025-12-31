@@ -1,0 +1,16 @@
+Day 2: File Viewing & Searching
+
+grep
+
+find
+
+wc
+
+sort, uniq
+
+🧪 Task:
+
+grep "root" /etc/passwd
+find / -name "*.conf"
+wc -l /var/log/syslog
+

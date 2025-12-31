@@ -1,0 +1,13 @@
+Day 3: File Permissions
+
+chmod (numeric + symbolic)
+
+chown
+
+umask
+
+🧪 Task:
+
+touch test.sh
+chmod 755 test.sh
+chown $USER:$USER test.sh

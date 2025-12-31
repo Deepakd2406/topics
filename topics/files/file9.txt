@@ -1,0 +1,15 @@
+WEEK 4 — Disk, Logs, Shell Scripting
+Day 9: Storage & Disk
+
+df -h, du -sh
+
+lsblk, fdisk, mount, umount
+
+Create a directory and mount a drive
+
+🧪 Task:
+
+df -h
+lsblk
+du -sh /var/log
+
